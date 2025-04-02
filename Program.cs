@@ -18,7 +18,7 @@ namespace ArrayProgramms
             int[] age = new int[3];
             ///How to Insert Values in Array
             ///Type:1: Add values to age array
-            Console.WriteLine("Type 1 Array");
+            Console.WriteLine("Type 1 Array ");
             age[0] = 56;
             age[1] = 89;
             age[2] = 57;
